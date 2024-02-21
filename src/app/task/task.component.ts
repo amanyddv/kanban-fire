@@ -1,6 +1,5 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { Task } from './task';
-import { MatCardModule } from '@angular/material/card';
 
 @Component({
   selector: 'app-task',

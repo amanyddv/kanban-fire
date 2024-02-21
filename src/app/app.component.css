@@ -46,11 +46,5 @@ mat-toolbar {
     opacity: 0;
   }
 
-  :host {
-    display: block;
-  }
-  
-  .item {
-    margin-bottom: 10px;
-    cursor: pointer;
-  }
+ 
+
